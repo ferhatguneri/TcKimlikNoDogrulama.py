@@ -19,4 +19,4 @@ def TCDogrula(TCKimlikNo,Ad,Soyad,DogumYili):
     response = requests.post(url,data=veri,headers=headers)
     print response.content
     
-#TCDogrula("11111111111","John","Doe","1111")
+#TCDogrula("11111111111","JOHN","DOE","1111")
