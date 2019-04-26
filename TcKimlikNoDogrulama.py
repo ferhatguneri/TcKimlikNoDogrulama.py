@@ -15,7 +15,7 @@ def TCDogrula(TCKimlikNo,Ad,Soyad,DogumYili):
   </soap12:Body>
 </soap12:Envelope>""".format(long(TCKimlikNo),str(Ad),str(Soyad),int(DogumYili)))
     url="https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL"
-    headers = {'Content-Type': 'application/soap+xml', 'Accept':'application/json'}
+    headers = {'Content-Type': 'application/soap+xml'}
     response = requests.post(url,data=Veri2,headers=headers,stream=True)
     namespaces = {
         'soap': 'http://www.w3.org/2003/05/soap-envelope',
