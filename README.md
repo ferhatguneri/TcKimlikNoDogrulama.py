@@ -1,4 +1,4 @@
-# Python SOAP ile Nüfus Müdürlüğünden TC Kimlik Doğrulama - Ferhat Güneri
+# Python SOAP ile TC Kimlik No, Ad, Soyad ve Doğum Yılı Doğrulama
 
 
 Bu Python scripti TC Kimlik No, Ad, Soyad, Doğum Yılı bilgilerini TC Nüfus Müdürlüğünün Soap API si ile kontrol ederek bilgilerin doğru olup olmadığını gönderir.
