@@ -1,4 +1,4 @@
-# TC Nüfus Müdürlğü Soap API kullanımı - Python
+# TC Nüfus Müdürlüğü Soap API kullanımı - Python
 
 Bu Python scripti TC Kimlik No, Ad, Soyad, Doğum Yılı bilgilerini TC Nüfus Müdürlüğünün Soap API si ile kontrol ederek bilgilerin doğru olup olmadığını gönderir.
 
