@@ -3,7 +3,9 @@
 
 Bu Python scripti TC Kimlik No, Ad, Soyad, Doğum Yılı bilgilerini TC Nüfus Müdürlüğünün Soap API si ile kontrol ederek bilgilerin doğru olup olmadığını gönderir.
 
-Gönderilen bilgiler sırasıyla TCKN, Ad, Soyad, Doğum Yılı
+Gönderilen bilgiler sırasıyla:
+
+TCKN, Ad, Soyad, Doğum Yılı
 
 Ad ve Soyad bilgisi büyük harlerle gönderilmesi gerekmektedir. 
 
