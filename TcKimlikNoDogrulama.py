@@ -1,5 +1,5 @@
 #Creted By Ferhat Guneri
-#Mail: guneriferhat21@gmail.com
+#Mail: ferhatguneri@outlook.com
 
 # -*- coding: utf-8 -*-
 import requests
