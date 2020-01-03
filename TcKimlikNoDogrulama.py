@@ -32,5 +32,5 @@ def TCDogrula(TCKimlikNo,Ad,Soyad,DogumYili):
 )
     for name in names:
         sonuc =name.text
-    print sonuc
+    print (sonuc)
 TCDogrula("1111111111","FERHAT","GÜNERİ","1111")
